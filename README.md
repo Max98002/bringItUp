@@ -7,4 +7,4 @@ Project-Bring It Up
 
 Для перегляду залишилось додати тільки в адресний рядок /dist/
 
-https://max98002.github.io/bringItUp/
+https://max98002.github.io/bringItUp/dist
